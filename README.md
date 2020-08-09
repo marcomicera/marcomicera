@@ -1,7 +1,7 @@
 ## Hi! I'm [**Marco**](https://marcomicera.github.io)!
 
 I'm 25 and a **Cloud Infrastructure Engineer** at [Endocode](https://github.com/endocode) in Berlin, Germany.\
-I love open-source (♡ especially this website), k8s, string instruments, and traveling.
+I love open-source, Kubernetes, string instruments, and traveling.
 
 You can take a look at what I'm doing by visiting my [p**roject boards**](https://github.com/marcomicera?tab=projects).
 
