@@ -1,7 +1,7 @@
 # :wave: Hi! I'm [**Marco**](https://marcomicera.github.io)!
 
 I'm 26 and a **Cloud Infrastructure Engineer** at [Endocode AG](https://github.com/endocode) in Berlin, Germany.\
-I love open-source, cloud computing, string instruments, and traveling.
+I love open-source, cloud computing, and string instruments.
 
 ## :earth_americas:	Links
 
