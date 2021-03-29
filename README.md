@@ -8,6 +8,6 @@ At the moment, I'm learning one of the hardest ~programming~ languages: German.
 ## :earth_americas:	Links
 
 - You can see what I'm up to by looking at my [project boards](https://github.com/marcomicera?tab=projects)
-- To learn more about me, please visit [**my website**](https://marcomicera.github.io)
+- To learn more about me, you can visit [**my website**](https://marcomicera.github.io)
 
 <!-- [![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcomicera&show_icons=true)](https://github.com/marcomicera) -->
