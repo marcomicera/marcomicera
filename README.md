@@ -1,7 +1,11 @@
 # :wave: Hi! I'm [**Marco**](https://marcomicera.github.io)!
 
 I'm 26 and a **Cloud Infrastructure Engineer** at [Endocode AG](https://github.com/endocode) in Berlin, Germany.\
-I love open-source, cloud computing, and string instruments.
+I love
+open-source,
+cloud computing,
+[string instruments](https://youtu.be/Izqz9Vm066E),
+and [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 
 You can take a look at what I'm doing by visiting my [_learning_ project board](https://github.com/users/marcomicera/projects/4).
 
