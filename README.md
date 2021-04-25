@@ -3,7 +3,7 @@
 I'm 26 and a **Cloud Infrastructure Engineer** at [Endocode AG](https://github.com/endocode) in Berlin, Germany.\
 I love open-source, cloud computing, and string instruments.
 
-At the moment, I'm learning one of the hardest ~programming~ languages: German.
+You can take a look at what I'm doing by visiting my [_learning_ project board](https://github.com/users/marcomicera/projects/4).
 
 ## :earth_americas:	Links
 
