@@ -7,6 +7,13 @@ cloud computing,
 [string instruments](https://youtu.be/Izqz9Vm066E),
 and [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 
+<p align="center">
+  <a href="https://marcomicera.github.io/" title="Website" target="_blank"><img src="https://img.shields.io/badge/Website-marcomicera.github.com-brightgreen?style=flat&logo=www" alt="Website"/></a>
+  <a href="https://marcomicera.github.io/resume" title="Résumé" target="_blank"><img src="https://img.shields.io/badge/Résumé-marcomicera.github.com/resume-blueviolet?style=flat&logo=docusign" alt="Résumé"/></a>
+  <a href="https://www.linkedin.com/in/marcomicera/?locale=en_US" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-marcomicera-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+</p>
+
+
 ## :earth_americas: Links
 
 - You can see what recently caught my eye by looking at my [_learning_ project board](https://github.com/users/marcomicera/projects/4)
