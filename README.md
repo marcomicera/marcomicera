@@ -24,9 +24,9 @@ and [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - :leftwards_arrow_with_hook: [PRs](https://github.com/search?q=is%3Apr+author%3Amarcomicera)
 - :grey_exclamation: [Issues](https://github.com/search?q=is%3Aissue+author%3Amarcomicera)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/marcomicera#js-contribution-activity" title="Marco's GitHub Stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=marcomicera&show_icons=true" alt="Marco's GitHub Stats"/></a>
-</p>
+</p> -->
   
 ## :pencil2: Blog posts
 
