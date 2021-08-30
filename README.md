@@ -19,8 +19,15 @@ and [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - You can see what recently caught my eye by looking at my [_learning_ project board](https://github.com/users/marcomicera/projects/4)
 - To learn more about me, you can visit [**my website**](https://marcomicera.github.io)
 
-<!-- [![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcomicera&show_icons=true)](https://github.com/marcomicera) -->
+### :computer: Contributions
 
+- :leftwards_arrow_with_hook: [PRs](https://github.com/search?q=is%3Apr+author%3Amarcomicera)
+- :grey_exclamation: [Issues](https://github.com/search?q=is%3Aissue+author%3Amarcomicera)
+
+<p align="center">
+  <a href="https://github.com/marcomicera#js-contribution-activity" title="Marco's GitHub Stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=marcomicera&show_icons=true" alt="Marco's GitHub Stats"/></a>
+</p>
+  
 ## :pencil2: Blog posts
 
 - [Java containerization for modular PF4j applications](https://endocode.com/blog/2021/07/23/2021-07-23-java-containerization-pf4j/)
