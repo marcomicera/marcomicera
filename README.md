@@ -30,4 +30,4 @@ and [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
   
 ## :pencil2: Blog posts
 
-- [Java containerization for modular PF4j applications](https://endocode.com/blog/2021/07/23/2021-07-23-java-containerization-pf4j/)
+- [Java containerization for modular PF4j applications](https://www.endocode.com/blog/2021/07/23/2021-07-23-java-containerization-pf4j/)
