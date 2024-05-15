@@ -1,6 +1,6 @@
 # :wave: Hi! I'm [**Marco**](https://marcomicera.github.io)!
 
-I'm 28 and a **DevOps Engineer** at [Ada Health](https://ada.com) in Berlin, Germany.\
+I'm a **Senior DevOps Engineer** at [Ada Health](https://ada.com) in Berlin, Germany.\
 I love
 open-source,
 cloud computing,
